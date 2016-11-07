@@ -9,6 +9,7 @@ class Dog(Animal):
 	def __init__(self, name):
 		## Dog has-a name.
 		self.name = name
+		print name
 
 ## Cat is-a Animal.
 class Cat(Animal):
@@ -16,6 +17,7 @@ class Cat(Animal):
 	def __init__(self, name):
 		## Cat has-a name.
 		self.name = name
+		print name
 
 ## Person is-a object.
 class Person(object):
@@ -27,6 +29,9 @@ class Person(object):
 		## Person has-a pet of some kind.
 		self.pet = None
 
+		## How come that this prints also Frank, not only Mary?
+		print name
+
 
 ## Employee is-a Person.
 class Employee(Person):
@@ -36,6 +41,9 @@ class Employee(Person):
 		super(Employee, self).__init__(name)
 		## Employee has-a salary.
 		self.salary = salary
+
+		print salary
+
 
 ## Fish is-a object.
 class Fish(object):
@@ -73,6 +81,12 @@ flipper = Fish()
 
 ## crouse is-a Salmon.
 crouse = Salmon()
+print crouse
 
 ## harry is-a Halibut.
 harry = Halibut()
+
+p = Person("peter")
+#print p.pet
+p.pet = rover
+p.blabla = 'asf'
