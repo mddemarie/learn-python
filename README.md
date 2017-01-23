@@ -9,10 +9,10 @@
 2. codecademy: exercises from the website https://www.codecademy.com/
 3. python-coursera: exercises from the course specialization https://www.coursera.org/specializations/python
 
-### * hard-way
+### 1. hard-way
 
-### * codecademy
-- coming soon
+### 2. codecademy
+coming soon
 
-### * python-coursera
-- coming soon
+### 3. python-coursera
+coming soon
