@@ -5,3 +5,6 @@ Lerning Python from Python for Everybody, Coursera
 Unit tests, Test Driven Development learning
 
 ## File guide
+1. hard-way: exercises from the book Learn Python the Hard Way. https://learnpythonthehardway.org/book/
+2. codecademy: exercises from the website https://www.codecademy.com/
+3. python-coursera: exercises from the course specialization https://www.coursera.org/specializations/python
