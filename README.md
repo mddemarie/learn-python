@@ -10,6 +10,7 @@
 3. python-coursera: exercises from the course specialization https://www.coursera.org/specializations/python
 
 ### 1. hard-way
+Here are all exercises from the book: based on number, you can find the lesson number.
 
 ### 2. codecademy
 coming soon
