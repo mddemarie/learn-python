@@ -8,4 +8,4 @@ def is_prime(x):
         return True
     else:
         return False
-is_prime(9)
+print(is_prime(3))
