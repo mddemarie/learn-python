@@ -1,3 +1,4 @@
+# first algorithm try
 def reverse(x):
     elements = list(x)
     num_letters = len(elements)
@@ -10,6 +11,7 @@ def reverse(x):
 
 print reverse("marie")
 
+# second algorithm try
 def reverse(x):
     num_letters = len(x)
     count = 0
